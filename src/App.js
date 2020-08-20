@@ -23,7 +23,7 @@ function App() {
   return (
     <div className="App">
       <Container className='my-4'>
-        <h1 className='mb-4'>Find a job</h1>
+        <h1 className='mb-4'>Find a Job</h1>
         <SearchForm params={params} onParamChange={handleParamChange} />
         <JobPagination page={page} setPage={setPage} hasNextPage={hasNextPage} />
         {loading && <h1>loading...</h1>}
