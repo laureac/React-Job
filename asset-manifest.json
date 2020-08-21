@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-Job/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/React-Job/static/js/main.1960faad.chunk.js",
-    "main.js.map": "/React-Job/static/js/main.1960faad.chunk.js.map",
+    "main.js": "/React-Job/static/js/main.910ef905.chunk.js",
+    "main.js.map": "/React-Job/static/js/main.910ef905.chunk.js.map",
     "runtime-main.js": "/React-Job/static/js/runtime-main.c61d950c.js",
     "runtime-main.js.map": "/React-Job/static/js/runtime-main.c61d950c.js.map",
     "static/js/2.86c11964.chunk.js": "/React-Job/static/js/2.86c11964.chunk.js",
     "static/js/2.86c11964.chunk.js.map": "/React-Job/static/js/2.86c11964.chunk.js.map",
     "index.html": "/React-Job/index.html",
-    "precache-manifest.291cf09feff5d30f842b78dd768b8efa.js": "/React-Job/precache-manifest.291cf09feff5d30f842b78dd768b8efa.js",
+    "precache-manifest.b1c87fd5665904f2c01ee01b82423fcd.js": "/React-Job/precache-manifest.b1c87fd5665904f2c01ee01b82423fcd.js",
     "service-worker.js": "/React-Job/service-worker.js",
     "static/css/main.27fd15f6.chunk.css.map": "/React-Job/static/css/main.27fd15f6.chunk.css.map",
     "static/js/2.86c11964.chunk.js.LICENSE.txt": "/React-Job/static/js/2.86c11964.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c61d950c.js",
     "static/js/2.86c11964.chunk.js",
     "static/css/main.27fd15f6.chunk.css",
-    "static/js/main.1960faad.chunk.js"
+    "static/js/main.910ef905.chunk.js"
   ]
 }
